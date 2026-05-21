@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MChrisp
 - 👀 I’m interested in learining coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning c++
 
 <!---
 MChrisp/MChrisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
